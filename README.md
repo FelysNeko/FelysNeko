@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm a first year computer engineering student at the University of Waterloo
+
+## Tech Stack
+- Python(proficient): OOP, Pandas/NumPy/SymPy/SciPy, Scikit-Learn, Regex, OpenCV, BeautifulSoup4, Flask
+- Language: C/C++(Firmware), Shell, SQL, Git(GitHub)
+- Platform: Linux(Kali/CentOS), MacOS, Windows, VSCode, Jupyter, Vim, PyCharm, STM32CubeIDE
 
 <!--
 **Jhanny-Kin/Jhanny-Kin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
