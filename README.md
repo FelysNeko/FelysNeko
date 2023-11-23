@@ -5,7 +5,7 @@ I'm a first year computer engineering student at the University of Waterloo and 
 ## Tech Stack
 
 - Python(proficient): OOP, Pandas/NumPy/SymPy/SciPy, Scikit-Learn, Regex, OpenCV, BeautifulSoup4, Flask
-- Language: C/C++(firmware), Shell, SQL, Git(GitHub), HTML/CSS/JavaScript
+- Language: C/C++(embedded system), Shell, SQL, Makefile, Git(GitHub), HTML/CSS/JavaScript
 - Platform: Linux(Kali/CentOS), MacOS, Windows, VSCode, Jupyter, Vim, PyCharm, STM32CubeIDE
 
 <!--
