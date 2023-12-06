@@ -1,12 +1,12 @@
 ## Introduction
 
-I'm a first year computer engineering student at the University of Waterloo and interested in programming language and compiler. Python is my most proficient language which I used to do data analysis, scripting, and development.
+I'm a first year computer engineering student at the University of Waterloo and interested in programming language and compiler. Python is one of my most proficient languages which I used to do data analysis, scripting, and development.
 
-## Tech Stack
+## Technology
 
-- Python(proficient): OOP, Pandas/NumPy/SymPy/SciPy, Scikit-Learn, Regex, OpenCV, BeautifulSoup4, Flask
-- Language: C/C++(embedded system), Shell, SQL, Makefile, Git(GitHub), HTML/CSS/JavaScript
-- Platform: Linux(Kali/CentOS), MacOS, Windows, VSCode, Jupyter, Vim, PyCharm, STM32CubeIDE
+* Python(proficient): OOP, Pandas/NumPy/SymPy/SciPy, Scikit-Learn, RegEx, OpenCV, BeautifulSoup4, Flask
+* Languages: C/C++(embedded system), Shell, SQL, Makefile, Git(GitHub), HTML/CSS/JavaScript
+* Platform: Linux(Kali/CentOS), MacOS, Windows, VSCode, Jupyter, Vim, PyCharm, STM32CubeIDE
 
 <!--
 **Jhanny-Kin/Jhanny-Kin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
