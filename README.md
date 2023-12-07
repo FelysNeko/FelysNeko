@@ -1,12 +1,10 @@
 ## Introduction
 
-I'm a first year computer engineering student at the University of Waterloo and interested in programming language and compiler. Python is one of my most proficient languages which I used to do data analysis, scripting, and development.
+I'm a first-year computer engineering student at the University of Waterloo, interested in programming languages and compilers. Python is one of my most proficient languages, which I use to do data analysis, scripting, and development. 
 
-## Technology
+## Recently
 
-* Python(proficient): OOP, Pandas/NumPy/SymPy/SciPy, Scikit-Learn, RegEx, OpenCV, BeautifulSoup4, Flask
-* Languages: C/C++(embedded system), Shell, SQL, Makefile, Git(GitHub), HTML/CSS/JavaScript
-* Platform: Linux(Kali/CentOS), MacOS, Windows, VSCode, Jupyter, Vim, PyCharm, STM32CubeIDE
+I concatenated and tidied up all of my minor projects into one repository: [Code-Collection](https://github.com/Jhanny-Kin/Code-Collection), so I have fewer repositories under my account now. Meanwhile, some broken scripts are permanently removed since I don't have time to fix them. Also, I am re-designing [Felys-Interpreter](https://github.com/Jhanny-Kin/Felys-Interpreter/tree/future) to make it support more data types and perhaps functions, and hopefully, I can get it done in two months.
 
 <!--
 **Jhanny-Kin/Jhanny-Kin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
