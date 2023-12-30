@@ -2,7 +2,7 @@
 I'm a first-year computer engineering student at the University of Waterloo, interested in programming languages and compilers. Python is one of my most proficient languages, which I use to do data analysis, scripting, and development. 
 
 ## Recently
-I just finished my [Personal-Website](https://github.com/Jhanny-Kin/Personal-Website). I learned typescript, react.js, bootstrap, and nginx in just a week, which were so much work. My average daily laptop screen time is over 10 hours, so I really got to take a break from it.
+Gaming...
 
 <!--
 **Jhanny-Kin/Jhanny-Kin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
