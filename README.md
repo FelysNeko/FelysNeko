@@ -1,5 +1,5 @@
 ## Introduction
-I'm a first-year computer engineering student at the University of Waterloo, interested in programming languages and compilers. Python and C are my most proficient languages, but I have also coded in Rust, C++, and Typescript (with React.js only) for some projects. All of my past repositories are merged, so most of commit history is lost. QAQ
+I'm a first-year computer engineering student at the University of Waterloo.
 
 ## Recently
 Internship
